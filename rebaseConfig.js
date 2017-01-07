@@ -1,7 +1,7 @@
 import Rebase from 're-base';
 
 //all this comes from your firebase info panel. Replace with your own keys, etc
-//add this file to your .gitignore if you dont want all this on github...
+//add this file to your .gitignore if you dont want all this on github... 
 var base = Rebase.createClass({
       apiKey: "apiKey",
       authDomain: "myProjectId.firebaseapp.com",
