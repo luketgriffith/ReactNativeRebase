@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeRebase'
+
+include ':app'
