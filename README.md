@@ -9,6 +9,8 @@ up and CRUDing data in minutes!
 Note- this assumes that you have React Native & its dependencies installed on your machine. Go [here](https://facebook.github.io/react-native/docs/getting-started.html#content)
 to make sure.
 
+This is meant as a bare-bones starter kit for prototyping/building mobile apps quickly. Feedback, thoughts, PRs welcome!
+
 #Getting Started
 -Come up with a billion-dollar app idea
 -Get familiar with [Re-base](https://github.com/tylermcginnis/re-base), it's the main point of using this project.  
